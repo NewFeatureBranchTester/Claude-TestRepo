@@ -1,0 +1,1 @@
+Als Softwaretester erstelle relevante Testfälle zu allen Einzelanforderungen alle vorhandenen Use Cases innerhalb dieses Workspaces-Ordners.

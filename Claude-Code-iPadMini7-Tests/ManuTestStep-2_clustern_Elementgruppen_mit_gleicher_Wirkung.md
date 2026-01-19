@@ -1,0 +1,1 @@
+Als Softwaretester lese, verstehe und optimiere alle erstellten Testfälle. Wenn es Elementgruppen mit gleicher System-Wirkung gibt, informiere mich darüber, ob man diese Elementgruppen mit gleicher System-Wirkung gegeben falls zusammenfassen kann, um die Anzahl der vorhandenen Tests und damit den Testaufwand reduzieren kann. 
